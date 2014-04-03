@@ -1,5 +1,5 @@
 {
-  "name": "teamwork-coffeelint-rules",
+  "name": "coffeelint-rules",
   "version": "0.0.1",
   "description": "Rules for CoffeeLint used by Teamwork to enfore a CoffeeScript code style",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/teamwork/teamwork-coffeelint-rules"
+    "url": "https://github.com/teamwork/coffeelint-rules"
   },
   "keywords": [
     "coffeescript",
@@ -20,7 +20,7 @@
   "author": "Adam Lynch <adam@teamwork.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/teamwork/teamwork-coffeelint-rules/issues"
+    "url": "https://github.com/teamwork/coffeelint-rules/issues"
   },
-  "homepage": "https://github.com/teamwork/teamwork-coffeelint-rules"
+  "homepage": "https://github.com/teamwork/coffeelint-rules"
 }
