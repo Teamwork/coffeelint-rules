@@ -1,3 +1,3 @@
-[Teamwork](https://www.teamwork.com)'s CoffeeScript coding style rules for [CoffeeLint](http://www.coffeelint.org/).
+Rules for [CoffeeLint](http://www.coffeelint.org/) used by [Teamwork.com](https://www.teamwork.com) to enforce a CoffeeScript code style
 
 `npm install teamwork-coffeelint-rules`
