@@ -1,5 +1,5 @@
 {
-  "name": "coffeelint-rules",
+  "name": "@teamwork/coffeelint-rules",
   "version": "0.0.1",
   "description": "Rules for CoffeeLint used by Teamwork to enfore a CoffeeScript code style",
   "scripts": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/teamwork/coffeelint-rules/issues"
   },
-  "homepage": "https://github.com/teamwork/coffeelint-rules"
+  "homepage": "https://github.com/teamwork/coffeelint-rules",
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/"
+  }
 }
